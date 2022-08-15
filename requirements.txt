@@ -1,0 +1,4 @@
+covid-data-api==1.5
+COVID19Py==0.3.0
+requests==2.28.1
+pyTelegramBotAPI==4.6.1
